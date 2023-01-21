@@ -24,12 +24,6 @@
 
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=BrunoFernandes25&repo=BrunoFernandes25&theme=react)](https://github.com/BrunoFernandes25/BrunoFernandes25)
-
-
-
-
-
 
 <!--
 **BrunoFernandes25/BrunoFernandes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
