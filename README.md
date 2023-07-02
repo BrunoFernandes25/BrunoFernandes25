@@ -13,7 +13,7 @@
 ### 2nd year - 2nd semester 
 - **Programação Orientada a Objetos** (OOP) - Java - [Exercises](https://github.com/BrunoFernandes25/POO/tree/master/src) - [Project](https://github.com/BrunoFernandes25/POO/tree/master/Projeto)
 - **Laboratórios de Algoritmia II** - Python - [Exercises](https://github.com/BrunoFernandes25/LA-II)
-- **Sistemas Operativos** - C - [Project]([https://github.com/NelsonAlmeida-18/SO-Pr-tico](https://github.com/BrunoFernandes25/Projeto-SO)
+- **Sistemas Operativos** - C - [Project](https://github.com/BrunoFernandes25/Projeto-SO)
 - **Cálculo de Programas** - Haskell - [Project]
 
 ### 3rd year - 1st semester 
