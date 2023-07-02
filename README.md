@@ -14,7 +14,7 @@
 - **Programação Orientada a Objetos** (OOP) - Java - [Exercises](https://github.com/BrunoFernandes25/POO/tree/master/src) - [Project](https://github.com/BrunoFernandes25/POO/tree/master/Projeto)
 - **Laboratórios de Algoritmia II** - Python - [Exercises](https://github.com/BrunoFernandes25/LA-II)
 - **Sistemas Operativos** - C - [Project]([https://github.com/NelsonAlmeida-18/SO-Pr-tico](https://github.com/BrunoFernandes25/Projeto-SO)
-- **Cálculo de Programas** - Haskell - [Project]()
+- **Cálculo de Programas** - Haskell - [Project]
 
 ### 3rd year - 1st semester 
 - **Bases de Dados** (DB) - SQL - [Exercises](https://github.com/BrunoFernandes25/Base-de-Dados/tree/master/Fichas) - [Project](https://github.com/BrunoFernandes25/Base-de-Dados/tree/master/Projeto)
@@ -23,7 +23,7 @@
 
 ### 3rd year - 2nd semester 
 - **Computação Gráfica** (Computer Graphics) - C++ - [Project](https://github.com/BrunoFernandes25/Computacao-Grafica)
-- **Programação Concorrente** (Concurrent Programming) - Java - [Project]()
+- **Programação Concorrente** (Concurrent Programming) - Java - [Project]
 - **Interação e Concorrência**(Quantum Computing) - Qiskit - [Project](https://github.com/BrunoFernandes25/IC)
 
 
