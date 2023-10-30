@@ -10,6 +10,9 @@
 - **Laboratórios de Algoritmia I** - C/Assembly - [Projects](https://github.com/BrunoFernandes25/LA-I/tree/main/LA1/CC-PL-3-G-08-main)
 - **Sistemas de Computação** (Computer Systems) - C/Assembly - [Projects] 
 
+### 2nd year - 1nd semester 
+- **Algoritmos e Complexidade** (AeC) - C - [Exercises](https://github.com/BrunoFernandes25/AeC)
+
 ### 2nd year - 2nd semester 
 - **Programação Orientada a Objetos** (OOP) - Java - [Exercises](https://github.com/BrunoFernandes25/POO/tree/master/src) - [Project](https://github.com/BrunoFernandes25/POO/tree/master/Projeto)
 - **Laboratórios de Algoritmia II** - Python - [Exercises](https://github.com/BrunoFernandes25/LA-II)
