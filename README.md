@@ -29,7 +29,8 @@
 - **Programação Concorrente** (Concurrent Programming) - Java - [Exercises](https://github.com/BrunoFernandes25/Programa-o-Concorrente/tree/main/Te%C3%B3rico%20Pr%C3%A1tica) - [Project]
 - **Interação e Concorrência**(Quantum Computing) - Qiskit - [Project](https://github.com/BrunoFernandes25/IC)
 
-[![BrunoFernandes25 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoFernandes25)](https://github.com/BrunoFernandes25/github-readme-stats)
+<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BrunoFernandes25&show_icons=true&theme=transparent"/>
+<img alt="Top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFernandes25&layout=compact&theme=transparent"/>
 
   ![snake gif](https://github.com/BrunoFernandes25/BrunoFernandes25/blob/output/github-contribution-grid-snake.svg)
 </div>
