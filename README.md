@@ -25,7 +25,7 @@
 
 ### 3rd year - 2nd semester 
 - **Computação Gráfica** (Computer Graphics) - C++ - [Project](https://github.com/BrunoFernandes25/Computacao-Grafica)
-- **Programação Concorrente** (Concurrent Programming) - Java - [Exercises](https://github.com/BrunoFernandes25/Programa-o-Concorrente/tree/main/Te%C3%B3rico%20Pr%C3%A1tica) - [Project]
+- **Programação Concorrente** (Concurrent Programming) - Java - [Exercises](https://github.com/BrunoFernandes25/Programa-o-Concorrente/tree/main/Te%C3%B3rico%20Pr%C3%A1tica) - [Project](https://github.com/BrunoFernandes25/Programa-o-Concorrente/tree/main/Projeto_PC)
 - **Interação e Concorrência**(Quantum Computing) - Qiskit - [Project](https://github.com/BrunoFernandes25/IC)
 
 <img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BrunoFernandes25&show_icons=true&theme=transparent"/>
