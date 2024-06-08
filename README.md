@@ -16,7 +16,6 @@
 - **Programação Orientada a Objetos** (OOP) - Java - [Exercises](https://github.com/BrunoFernandes25/POO/tree/master/src) - [Project](https://github.com/BrunoFernandes25/POO/tree/master/Projeto)
 - **Laboratórios de Algoritmia II** - Python - [Exercises](https://github.com/BrunoFernandes25/LA-II)
 - **Sistemas Operativos** - C - [Exercises](https://github.com/BrunoFernandes25/Sistemas-Operativos/tree/main/Guioes)- [Project](https://github.com/BrunoFernandes25/Sistemas-Operativos/tree/main/Trabalho%20Pr%C3%A1tico)
-- **Cálculo de Programas** - Haskell - [Exercises]
 
 ### 3rd year - 1st semester 
 - **Bases de Dados** (DB) - SQL - [Exercises](https://github.com/BrunoFernandes25/Base-de-Dados/tree/master/Fichas) - [Project](https://github.com/BrunoFernandes25/Base-de-Dados/tree/master/Projeto)
